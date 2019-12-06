@@ -38,6 +38,7 @@ Enter the values for the following varible before running the main program, defa
 
 [1] Wu-Sheng Lu ; Takao Hinamoto , "https://www.researchgate.net/publication/332815480_Robust_Digital_Filters_Part_1_-_Minimax_FIR_Filters".
 doi: 10.1109/LSP.2013.2267593
+
 [2] W.-S. Lu, Course notes of Advanced Mathematical optimizations. 
 
 
