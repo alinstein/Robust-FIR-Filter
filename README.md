@@ -11,6 +11,7 @@ The performance and design formulations of robust FIR filters in L8 (minimax) ar
 In this project, L8 -robust FIR filter is designed (optimized) using an accelerated sub-gradient algorithm and implemented in MATLAB  
 
 
+More details in project report.pdf
 
 ## Getting Started
 
